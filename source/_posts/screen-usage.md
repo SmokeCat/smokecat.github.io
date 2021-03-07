@@ -1,4 +1,11 @@
-# screen 使用笔记
+---
+title: screen 使用笔记
+date: 2021-03-07 14:46:23
+tags:
+- linux
+categories:
+- linux
+---
 
 ## 安装
 
