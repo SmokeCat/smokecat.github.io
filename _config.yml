@@ -4,9 +4,9 @@
 
 # Site
 title: Smoke Blog
-subtitle: ''
+subtitle: 随心而动，随风而行
 description: Smoke's blogs.
-keywords:
+keywords: blog, smoke
 author: Smoke
 language: zh-CN
 timezone: Asia/Shanghai
@@ -62,7 +62,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 5
   order_by: -date
 
 # Category & Tag
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
